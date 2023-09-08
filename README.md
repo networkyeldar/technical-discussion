@@ -10,3 +10,6 @@ This is a good example of [my code](https://gist.github.com/networkyeldar/731bf7
 
 ### Colab Example
 This is the [notebook](https://colab.research.google.com/github/networkyeldar/technical-discussion/blob/main/technical_docs.ipynb)
+
+### Image
+![image](https://github.com/networkyeldar/technical-discussion/assets/100433043/5cdd92ec-f7bb-4cf6-a827-fff3bc839e86)
